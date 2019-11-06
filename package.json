@@ -40,7 +40,7 @@
     "metascraper-title": "^5.0.1",
     "metascraper-url": "^5.0.1",
     "metascraper-video": "^5.0.1",
-    "mongoose": "^5.0.11",
+    "mongoose": "^5.7.5",
     "node-sass": "^4.7.2",
     "nodemon": "^1.17.2",
     "postcss-loader": "^2.1.3",
