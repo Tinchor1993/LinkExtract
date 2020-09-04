@@ -41,7 +41,7 @@
     "metascraper-url": "^5.0.1",
     "metascraper-video": "^5.0.1",
     "mongoose": "^5.0.11",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.13.1",
     "nodemon": "^1.17.2",
     "postcss-loader": "^2.1.3",
     "prop-types": "^15.7.2",
